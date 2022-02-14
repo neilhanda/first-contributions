@@ -1967,6 +1967,7 @@ yejashi
 - [Chirag](https://github.com/Hardiegogo)
 - [Ninad](https://github.com/AwsmNinad25)
 - [Marcus Gamboa](https://github.com/mhgamboa)
+  Neil Handa IIITB CSE 2026 
 - [Rofiq](https://github.com/mhdrofiq)
 - [Gusky](https://github.com/iGusky)
 - [Heeendri](https://github.com/heeendri/)
